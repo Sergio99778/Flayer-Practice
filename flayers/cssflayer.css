@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  text-align: center;
+}
+
+.total-container {
+  background: #000000;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #434343, #000000);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, rgba(66, 66, 66, 0.644), hsla(0, 0%, 0%, 0.767)), url(/img/background.png);
+}
+
+.principal-title {
+  font-family: 'Tourney', cursive;
+}
+
+.sergio-social {
+  width: 50%;
+  margin: 0;
+  padding: 0;
+}
+
+.axel-social {
+  width: 50%;
+  padding: 0;
+}
+
+
+
+#img-serg {
+  width: 70px;
+  margin-left: 629px;
+  border-radius: 2em;
+  box-shadow: 10px 10px 50px 10px #000000;
+}
+
+
+#img-axl {
+  width: 70px;
+
+  margin-left: 20px;
+  border-radius: 2em;
+  box-shadow: 10px 10px 50px 10px #000000;
+}
